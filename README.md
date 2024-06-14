@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 -->💻 I am currently in the final stages of completing my Master's degree in Telecommunications and Informatics Engineering at the University of Minho, where I am working on my thesis.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camiladiaspinto&show_icons=true&theme=radical" alt="Camila's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladiaspinto&layout=compact&theme=radical" alt="Top Languages">
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=camiladiaspinto&show_icons=true&theme=radical" alt="My stats" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladiaspinto&layout=compact&theme=radical" alt="Top Languages" width="36%">
 </div>
 
+---
 
 ### Tecnologies 
 <div style="display: inline_block"><br>
