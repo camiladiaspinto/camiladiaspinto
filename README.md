@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Camila 👋
 
 <!--
 **camiladiaspinto/camiladiaspinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->💻 I am currently in the final stages of completing my Master's degree in Telecommunications and Informatics Engineering at the University of Minho, where I am working on my thesis.
